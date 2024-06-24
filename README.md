@@ -1,0 +1,2 @@
+AZ_Dataset_CDDD_experiments
+This repository contains codes for extracting, analysing and validating data from the DrugBank database. I used the method developed by Dhimmel to extract and process XML data downloaded from the DrugBank. CDDD (Continuous and Data-Driven Descriptors) is a model developed by Winter et al, that encodes SMILES string to a 512 latent vector and also capable of decodes back to the SMILES string with high reconstruction rate (93.106% for DrugBank molecules).
