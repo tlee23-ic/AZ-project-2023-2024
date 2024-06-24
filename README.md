@@ -6,7 +6,6 @@ python-3.9.7, numpy-1.20.3 pandas-1.3.4, rdkit-2023.9.4, tensorflow-2.10.1
 DeepCIM_main / 
 Our main model and the entire workflow. This repository contains the code and resources for DeepCIM project which predicts chemotherapy-induced myelosuppression (CIM) based on binding interactions between chemotherapeutic molecules and proteins. The first part includes data preparation, preprocessing and summary of data in different plots. 
 
-General workflow
 <img width="774" alt="Screenshot 2024-06-24 at 7 03 22 PM" src="https://github.com/tlee23-ic/AZ-project-2023-2024/assets/151794938/751d5a09-6a58-435f-980c-7253ff9dc15a">
 
 
